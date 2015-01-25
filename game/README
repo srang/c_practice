@@ -1,0 +1,3 @@
+This project is broken out into multiple pacakges for simplicity.
+-Model: Contains Game entities, services and eventually data connections
+-Controller:
